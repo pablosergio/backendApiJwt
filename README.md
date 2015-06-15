@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NODE TODO API
 
 This is a NodeJS full API that you can use to test with your SPAs or Mobile apps.
@@ -49,3 +50,7 @@ AUTH0_CLIENT_SECRET=YourClientSecret
 ````
 
 # backendApiJwt 
+=======
+# backendApiJwt
+Server api rest jwt
+>>>>>>> 386b64cd0ecc527919332f90619ce2a2aeb6090b
